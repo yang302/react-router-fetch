@@ -1,0 +1,11 @@
+.home {
+  height: 400px; }
+  .home .ant-carousel .slick-dots li button {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%; }
+  .home .ant-tabs-nav {
+    display: flex; }
+    .home .ant-tabs-nav .ant-tabs-tab {
+      flex: 1;
+      text-align: center; }

@@ -1,0 +1,39 @@
+.header .headerTop {
+  height: 30px;
+  line-height: 30px;
+  background: #fafafa; }
+
+.header .headerMain {
+  text-align: right; }
+  .header .headerMain span {
+    margin: 0 5px;
+    color: #999;
+    padding-left: 8px; }
+    .header .headerMain span.bgBar {
+      background: url("../../img/ico_util_bar.gif") no-repeat 0 center; }
+  .header .headerMain img {
+    vertical-align: middle; }
+
+.header .headerNav {
+  height: 70px;
+  border-bottom: 1px solid #dedfe3; }
+  .header .headerNav .headCont {
+    min-width: 980px;
+    max-width: 1200px;
+    margin: 0 auto; }
+  .header .headerNav img {
+    float: left; }
+  .header .headerNav ul {
+    height: 70px;
+    line-height: 70px;
+    float: right;
+    margin-right: 10px; }
+    .header .headerNav ul li {
+      float: left;
+      padding: 0 25px;
+      font-size: 16px; }
+      .header .headerNav ul li a:hover,
+      .header .headerNav ul li a:active {
+        color: #fc7140 !important; }
+  .header .headerNav .active {
+    color: #fc7140 !important; }
